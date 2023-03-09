@@ -1,6 +1,6 @@
 # In love with git
 
-From the things I've learned so for I've (like many others) fell in love with git. ALthough I cannot use git with its full potential ( right now I'm at 5%) I can see in the future it will be my friend :)
+From the things I've learned so for I've (like many others) fell in love with git. Although I cannot use git with its full potential ( right now I'm at 5%) I can see in the future it will be my friend :)
 
 # Struggles and heartbreaks
 
